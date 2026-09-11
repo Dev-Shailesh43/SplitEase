@@ -46,3 +46,6 @@ Thumbs.db
 *.log
 scratch/
 .system_generated/
+powershell.cmd
+test_*.py
+check_*.py

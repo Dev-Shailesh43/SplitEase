@@ -99,26 +99,6 @@ Open your browser and navigate to:
 
 ---
 
-## 🧪 Automated Verification & Test Suite
-
-Run the full end-to-end test suite:
-
-```bash
-# Privacy-first isolation policy test
-python test_privacy_policy.py
-
-# Authentication and session token test
-python test_auth_system.py
-
-# Settlement and account balance test
-python test_account_settlement_apis.py
-
-# End-to-end integration test
-python test_e2e.py
-```
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License.
